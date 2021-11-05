@@ -1,0 +1,13 @@
+Epoch 1:
+	Pass 1: (obs 1)
+		Forward Propagate
+		Calculate Error
+		Check Threshold (Stop if < )
+		BackPropagate
+	Pass 2: (obs 2)
+		FP
+		Cal.Error
+		CheckError
+		BackP
+	...
+	Pass N
